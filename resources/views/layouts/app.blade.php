@@ -9,7 +9,7 @@
     <nav class="navbar navbar-light bg-light">
         <div class="container">
             <a class="navbar-brand" href="/">My Todo App</a>
-            <a href="/create" class="btn btn-primary">Create New</a>
+            <a href="/create" class="btn btn-primary">Create</a>
         </div>
     </nav>
     <div class="container mt-4">
