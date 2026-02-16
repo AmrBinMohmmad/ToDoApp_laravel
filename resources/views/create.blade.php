@@ -4,7 +4,7 @@
     <form action="/store-data" method="POST">
         @csrf
         <div class="mb-3">
-            <label>Name</label>
+            <label>ToDo</label>
             <input type="text" name="name" class="form-control" required>
         </div>
         <div class="mb-3">
