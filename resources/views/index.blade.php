@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-    <h1>All Todos</h1>
+    <h1>Aaaaa</h1>
     <ul class="list-group">
         @foreach($todos as $todo)
             @if ($todo->updated_at->ne($todo->created_at))
